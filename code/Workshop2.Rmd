@@ -243,5 +243,3 @@ ggsave("my-plot.pdf")
 #> Saving 7 x 4.32 in image
 ```
 
-```
-
